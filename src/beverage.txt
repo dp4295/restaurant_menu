@@ -1,0 +1,4 @@
+Very Berry Hibiscus Refreshers Beverage:Starbucks:Contain nut:100:21:0:24
+Bacardi Silver:Bacardi:Alchohol:225:0:0:4
+Green Plant:Trader Joe's:Contain dairy:120:25:35:30
+Bahama Breeze:Slushies-Mango:45 percent juice:180:30:5:45
